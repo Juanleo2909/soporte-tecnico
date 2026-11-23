@@ -1,4 +1,4 @@
-# API RESTful — Sistema de Gestión de Soporte Técnico
+# API RESTFULL — Sistema de Gestión de Soporte Técnico
 
 Aplicación backend desarrollada en **Java** con **Spring Boot** que implementa una API RESTful para el registro, consulta, actualización y eliminación de **clientes**, **técnicos** y **solicitudes de soporte técnico**. El proyecto utiliza una arquitectura organizada por capas, validación de datos de entrada, manejo centralizado de excepciones y persistencia temporal en memoria.
 
